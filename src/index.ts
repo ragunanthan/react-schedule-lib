@@ -1,1 +1,3 @@
-export * from "./components";
+import TimeLine from "./components/TimeLine";
+
+export default TimeLine;

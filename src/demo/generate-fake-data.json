@@ -1,0 +1,315 @@
+{
+  "groups": [
+    {
+      "id": "2",
+      "title": "Melyna",
+      "rightTitle": "McGlynn",
+      "label": "Label Lorenz",
+      "bgColor": "#fafcb8"
+    },
+    {
+      "id": "1",
+      "title": "General",
+      "rightTitle": "Koch",
+      "label": "Label Natalie",
+      "bgColor": "#d0f271"
+    },
+    {
+      "id": "3",
+      "title": "Dayton",
+      "rightTitle": "Block",
+      "label": "Label Garett",
+      "bgColor": "#b3ef7a"
+    },
+    {
+      "id": "4",
+      "title": "Carole",
+      "rightTitle": "Wuckert",
+      "label": "Label Adella",
+      "bgColor": "#a0ef86"
+    },
+    {
+      "id": "5",
+      "title": "Desmond",
+      "rightTitle": "Kassulke",
+      "label": "Label Baylee",
+      "bgColor": "#99fc97"
+    },
+    {
+      "id": "6",
+      "title": "Daniela",
+      "rightTitle": "Daugherty",
+      "label": "Label Jaren",
+      "bgColor": "#9ff9b4"
+    },
+    {
+      "id": "7",
+      "title": "Joany",
+      "rightTitle": "Klocko",
+      "label": "Label Graciela",
+      "bgColor": "#abfcd1"
+    },
+    {
+      "id": "8",
+      "title": "Devyn",
+      "rightTitle": "Cummings",
+      "label": "Label Clyde",
+      "bgColor": "#6fedc7"
+    },
+    {
+      "id": "9",
+      "title": "Dwight",
+      "rightTitle": "Baumbach",
+      "label": "Label Micah",
+      "bgColor": "#77eae4"
+    },
+    {
+      "id": "10",
+      "title": "Gretchen",
+      "rightTitle": "Balistreri",
+      "label": "Label Chadrick",
+      "bgColor": "#93e7f9"
+    },
+    {
+      "id": "11",
+      "title": "Titus",
+      "rightTitle": "Brakus",
+      "label": "Label Jovanny",
+      "bgColor": "#9fcff4"
+    },
+    {
+      "id": "12",
+      "title": "Efrain",
+      "rightTitle": "Friesen",
+      "label": "Label Obie",
+      "bgColor": "#a9c1f2"
+    },
+    {
+      "id": "13",
+      "title": "Orie",
+      "rightTitle": "Jast",
+      "label": "Label Colton",
+      "bgColor": "#bbc1f7"
+    },
+    {
+      "id": "14",
+      "title": "Wendell",
+      "rightTitle": "Bogisich",
+      "label": "Label Toby",
+      "bgColor": "#7564d6"
+    },
+    {
+      "id": "15",
+      "title": "Francesca",
+      "rightTitle": "Kling",
+      "label": "Label Thora",
+      "bgColor": "#af83f7"
+    },
+    {
+      "id": "16",
+      "title": "Milford",
+      "rightTitle": "Hoeger",
+      "label": "Label Rebeca",
+      "bgColor": "#cb8cf2"
+    },
+    {
+      "id": "17",
+      "title": "Mikayla",
+      "rightTitle": "Littel",
+      "label": "Label Tiana",
+      "bgColor": "#e99cf4"
+    },
+    {
+      "id": "18",
+      "title": "Mitchel",
+      "rightTitle": "Upton",
+      "label": "Label Helmer",
+      "bgColor": "#f2a9ea"
+    },
+    {
+      "id": "19",
+      "title": "Albina",
+      "rightTitle": "Harris",
+      "label": "Label Prince",
+      "bgColor": "#fcbfe8"
+    },
+    {
+      "id": "20",
+      "title": "Emile",
+      "rightTitle": "Swaniawski",
+      "label": "Label Enrico",
+      "bgColor": "#f771a9"
+    },
+    {
+      "id": "21",
+      "title": "Maiya",
+      "rightTitle": "Cummings",
+      "label": "Label Aida",
+      "bgColor": "#f47f94"
+    },
+    {
+      "id": "22",
+      "title": "Fabiola",
+      "rightTitle": "Corwin",
+      "label": "Label Mafalda",
+      "bgColor": "#f4938d"
+    },
+    {
+      "id": "23",
+      "title": "Aylin",
+      "rightTitle": "Hickle",
+      "label": "Label Sierra",
+      "bgColor": "#f2b59b"
+    },
+    {
+      "id": "24",
+      "title": "Russell",
+      "rightTitle": "Stiedemann",
+      "label": "Label Fausto",
+      "bgColor": "#fcd7ae"
+    },
+    {
+      "id": "25",
+      "title": "Maria",
+      "rightTitle": "Ankunding",
+      "label": "Label Devante",
+      "bgColor": "#fcedbd"
+    },
+    {
+      "id": "26",
+      "title": "Orie",
+      "rightTitle": "Carroll",
+      "label": "Label Lyla",
+      "bgColor": "#f5f771"
+    },
+    {
+      "id": "27",
+      "title": "Destini",
+      "rightTitle": "Berge",
+      "label": "Label Gudrun",
+      "bgColor": "#d3f279"
+    },
+    {
+      "id": "28",
+      "title": "Maude",
+      "rightTitle": "Lockman",
+      "label": "Label Elnora",
+      "bgColor": "#b8ef81"
+    },
+    {
+      "id": "29",
+      "title": "Alexane",
+      "rightTitle": "Nolan",
+      "label": "Label Beryl",
+      "bgColor": "#aefc92"
+    },
+    {
+      "id": "30",
+      "title": "Rudy",
+      "rightTitle": "Little",
+      "label": "Label Ruthie",
+      "bgColor": "#9ef99a"
+    }
+  ],
+  "items": [
+    {
+      "id": "0",
+      "group": "2",
+      "title": "I'll reboot the neural RSS circuit, that should capacitor the FTP firewall!",
+      "start": 1678500539481,
+      "end": 1683770939481,
+      "canMove": false,
+      "canResize": false,
+
+      "className": "",
+      "bgColor": "rgba(250, 252, 184, 0.6)",
+      "selectedBgColor": "rgba(250, 252, 184, 1)",
+      "color": "#e6ed17",
+      "itemProps": {
+        "data-tip": "I'll quantify the mobile JSON interface, that should interface the HDD bus!"
+      }
+    },
+    {
+      "id": "1",
+      "group": "1",
+      "title": "We need to reboot the digital SDD hard drive!",
+      "start": 1678500539481,
+      "end": 1686535739481,
+      "canMove": true,
+      "canResize": "both",
+      "className": "",
+      "bgColor": "rgba(208, 242, 113, 0.6)",
+      "selectedBgColor": "rgba(208, 242, 113, 1)",
+      "color": "#5d7f01",
+      "itemProps": {
+        "data-tip": "Use the wireless GB hard drive, then you can program the virtual driver!"
+      }
+    },
+    {
+      "id": "2",
+      "group": "3",
+      "title": "Use the mobile TCP matrix, then you can copy the digital system!",
+      "start": 1680401339481,
+      "end": 1681265339481,
+      "canMove": true,
+      "canResize": "both",
+      "className": "",
+      "bgColor": "rgba(179, 239, 122, 0.6)",
+      "selectedBgColor": "rgba(179, 239, 122, 1)",
+      "color": "#3d7a03",
+      "itemProps": {
+        "data-tip": "We need to hack the haptic SSL port!"
+      }
+    },
+    {
+      "id": "3",
+      "group": "4",
+      "title": "Try to parse the JBOD interface, maybe it will back up the online driver!",
+      "start": 1684548539481,
+      "end": 1689818939481,
+      "canMove": false,
+      "canResize": false,
+      "className": "",
+      "bgColor": "rgba(160, 239, 134, 0.6)",
+      "selectedBgColor": "rgba(160, 239, 134, 1)",
+      "color": "#207205",
+      "itemProps": {
+        "data-tip": "I'll connect the back-end TCP protocol, that should card the PNG hard drive!"
+      }
+    },
+    {
+      "id": "4",
+      "group": "5",
+      "title": "The SSL feed is down, parse the wireless transmitter so we can connect the SSL driver!",
+      "start": 1672366139481,
+      "end": 1676340539481,
+      "canMove": true,
+      "canResize": "both",
+      "className": "",
+      "bgColor": "rgba(153, 252, 151, 0.6)",
+      "selectedBgColor": "rgba(153, 252, 151, 1)",
+      "color": "#0b9e09",
+      "itemProps": {
+        "data-tip": "You can't override the transmitter without calculating the solid state JBOD bandwidth!"
+      }
+    },
+    {
+      "id": "5",
+      "group": "6",
+      "title": "If we program the circuit, we can get to the JSON bus through the neural SQL feed!",
+      "start": 1675217339481,
+      "end": 1676167739481,
+      "canMove": true,
+      "canResize": "both",
+      "className": "",
+      "bgColor": "rgba(159, 249, 180, 0.6)",
+      "selectedBgColor": "rgba(159, 249, 180, 1)",
+      "color": "#0c992d",
+      "itemProps": {
+        "data-tip": "You can't compress the interface without copying the primary HTTP application!"
+      }
+    }
+  ],
+  "visibleTimeStart": 1677609000000,
+  "visibleTimeEnd": 1688149800000
+}
